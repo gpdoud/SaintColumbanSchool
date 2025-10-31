@@ -1,7 +1,9 @@
-ISSUE
+# Shrill sound as laptop lid opened
+
+## ISSUE
 
 An eigth grader said her laptop make a loud, shrill sound twice when she opened the lid of her laptop. This does not happen every time the lid is opened. The laptop continued working correctly. 
 
-RESOLUTION
+## RESOLUTION
 
 TBD
