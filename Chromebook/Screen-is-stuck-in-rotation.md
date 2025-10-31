@@ -2,7 +2,7 @@
 
 ## ISSUE
 
-I student came with a Chromebook with the display stuck at 90 degrees.
+A student came with a Chromebook with the display stuck at 90 degrees.
 
 ## RESOLUTION
 
