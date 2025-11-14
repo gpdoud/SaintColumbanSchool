@@ -2,7 +2,7 @@
 
 ## ISSUE
 
-Sometime, I-Ready does not allow a student to get to their Reading or Math assignment. 
+Sometime, I-Ready does not allow a student to get to their Reading or Math assignment because it just continually buffering.
 
 Sometimes, there are three rotating blue dots and never stops.
 
@@ -12,8 +12,8 @@ Other times, the Loading green button never loads fully.
 
 For the rotating blue dots:
 
-1) Power the Chromebook down then start it up.
-2) Have the child login
+1) Sign out and close the lid. (The laptop will shut down)
+2) Open the lid and have the child login
 3) Check if the Reading or Math assignment will start correctly
 
 For the green button not finishing loading:
