@@ -16,3 +16,5 @@ Setting up the Thinkpad laptops for student use.
     - select `apps`
     - select `install apps`
 6. Type "Troubleshoot Windows Update" and run the troubleshooter
+7. Check Setup > System > About
+    - Check that Windwows Specification shows '25H2'
