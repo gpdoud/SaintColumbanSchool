@@ -12,8 +12,9 @@ Setting up the Thinkpad laptops for student use.
 4. Install Google Chrome
 5. Install Microsoft365 and activate all apps (requires an Microsoft admin email and password)
     - go to url: `office.com`
-    - sign-in with Microsoft credentials
+    - sign-in with `Microsoft` credentials
     - select `install apps`
+    - sign-in with `Google` credentials
     - You many have to sign-out and shutdown
 6. Type "Troubleshoot Windows Update" and run the troubleshooter
 7. Check Setup > System > About
