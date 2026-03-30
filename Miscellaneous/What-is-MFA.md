@@ -4,10 +4,12 @@ In today's technology world, so many accounts have been hacked which has allowed
 
 The improve the security exponentially, Multifactor Authentication (MFA) was created. MFA is connected to an application that previously worked by only entering the username and password. Many applications have been enhanced so that they need not only the username and password, but they also need information from an MFA application that is tied to the user application and will generate a 6 digit code that changes every 30 seconds and is needed to unlock the application. Using only the username and password will NOT unlock the user application. Many user applications will present the following data items that are needed to unlock it 
 
-Username: _____________________
-Password: _____________________
+    Username: _____________________
+    Password: _____________________
+
 After these are entered correctly
-6 Digit code: _________________
+    
+    6 Digit code: _________________
 
 Again, the user application will only unlock when all three data items are entered correctly.
 
